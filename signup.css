@@ -1,0 +1,48 @@
+.sign{
+	max-width: 350px;
+	border-radius: 20px;
+	margin:auto;
+	background:transparent;
+	box-sizing: border-box;
+	padding: 40px;
+	color: #fff;
+	margin-top: 100px;
+}
+.pic img{
+	max-width: 80px;
+	padding-left: 95px;
+
+}
+
+h2{
+	text-align: center;
+	font-family: 'Open sans';
+}
+
+input[type=text], input[type=password],select[id=person] {
+	width: 100%;
+	box-sizing: border-box;
+	padding: 12px;
+	background: rgba(0,0,0,0.10);
+	outline: none;
+	border: none;
+	border-bottom: 1px dotted darkorange;
+	color: #fff;
+	border-radius: 5px;
+	margin: 5px;
+	font-weight: bold;
+}
+
+input[type=submit]{
+	width: 100%;
+	box-sizing: border-box;
+	padding:10px 0;
+	margin-top: 30px;
+	outline: none;
+	border: none;
+	background:darkorange;
+	opacity: 0.7;
+	border-radius: 20px;
+	font-size: 20px;
+	color: #fff;
+}
